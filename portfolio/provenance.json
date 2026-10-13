@@ -1,0 +1,12 @@
+{
+  "slug": "hci-rehab-gait-dashboard",
+  "dir": "rehab-gait-dashboard",
+  "upstream": "utkukose/mogait",
+  "license": "MIT",
+  "category": "康复 / 数据仪表盘",
+  "validation": "Fork/license verified; no clinical validation",
+  "iteration": "证据、模型不确定性与人工复核的交互概念",
+  "upstreamCommit": "34330aa91bfb0a45833a07e394d4007890da42f7",
+  "checkedAt": "2026-10-14",
+  "contribution": "Attribution, source archive, conceptual HCI redraw and portfolio narrative. Upstream implementation belongs to original authors."
+}
